@@ -1,0 +1,150 @@
+body {
+    background-image:url(images/background-3.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+nav .navbar-brand img{
+    margin-left: 6rem;
+    width: 20%;
+}
+.simple {
+    margin: 0 4rem 0 0rem ;
+    padding: 5.6rem 4rem;
+}
+
+.dropdown-box {
+    border-radius: 5px 0 5px 0;
+}
+section {
+    margin: 1rem 0 10rem 0;
+    padding:2rem 0 0 0;
+}
+
+/* nav {
+    background: url(https://coolbackgrounds.io/images/backgrounds/white/white-trianglify-b79c7e1f.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(110, 106, 106, 0.096);
+} */
+nav a {
+    text-transform:capitalize;
+    font-family: 'Lora', serif;
+    font-weight: normal;
+    font-size: 1rem;
+    font-style:unset;
+    margin: 2px;
+}
+.nav-link {
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.nav-link:hover{
+    background-color: rgb(163, 11, 57);
+    font-size: 1.2rem; 
+    border-radius:20px 20px;    
+    color: white;   
+}
+.dropdown-item {
+    border-radius:20px 20px;
+}
+.dropdown-item:hover {
+    background-color: rgb(163, 11, 57);
+    font-size: 1.2rem; 
+    color: #fff;
+}
+h4 {
+    line-height: 1.6rem;
+    color: rgb(0, 0, 0);
+    font-weight:normal;
+    text-align: justify;
+    font-size: 1.2rem;
+    font-family: 'Lora', serif;   
+}
+.dropdown-menu {
+    margin-left:5rem ;
+    border-radius:20px 20px;
+}
+.carousel-inner img {
+    margin: 1rem 0 1rem 0;
+    width: 600px;
+    height: 500px;
+}
+.clients-head {
+    text-transform: uppercase;
+    color: grey;
+    text-align: center;
+}
+.col-md-3 img {
+    box-sizing: border-box;
+    margin: 2rem;
+    width: 200px;
+    height: 120px;
+}
+.first-page img{
+    width: 300px;
+    height: 400px;
+}
+.home-area hr {
+    width: 49%;
+    align-self: center;
+}
+iframe {
+    margin: 1rem 5rem 2rem 5rem; 
+}
+iframe .google-map{
+    border: 1pc solid black;
+}
+
+button {
+    /* width: 5rem;
+    height: 2rem; */
+    color: black;
+}
+h3 {
+    width: 100%;
+    text-align: left;
+
+}
+.red-mark {
+    color: rgb(65, 67, 226);
+}
+.produst-listig {
+      margin: 40px 30px 60px 100px;
+      align-items: center;
+      
+    }
+/* .product-box {
+    background: url(https://th.bing.com/th/id/R.7baaa3bba9c66bc16de8b1c31e1f6ae1?rik=wt3Q1asJWippXg&riu=http%3a%2f%2fallpicts.in%2fwp-content%2fuploads%2f2017%2f09%2fSimple-Abstract-Art-Using-Lines-Wallpaper-in-HD.jpg&ehk=i01Q300%2fKGPyTzcq%2f8xuAs1XPs3%2bJlV2IeW1r3%2fOsSQ%3d&risl=&pid=ImgRaw);
+    background-repeat: no-repeat;
+    background-size: cover;     
+    padding: 4rem 4rem;
+  }   */
+.card-title {
+      text-align: left;
+      color:white;
+      font-family: 'Cardo', serif;
+      font-weight: 700;
+      text-transform:uppercase;
+  }
+.card-img-top  {
+      width: 175px;
+      height: 250px;
+      margin: 2rem 0; 
+      align-items: center;
+      border-radius: 10%;
+  }
+.card {
+      background:none;
+      border: none;
+  }
+.col-lg-4 a {
+      text-decoration: none;
+  }
+#values img {
+    justify-content: space-between;
+     width: 300px;
+     height: 300px; 
+     margin: 1.5rem 2rem;
+}
+
+
